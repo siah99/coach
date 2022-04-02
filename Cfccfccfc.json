@@ -1,0 +1,490 @@
+bplist00�_WebMainResource�	
+_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameNameO��<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2113">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Courier; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;pre style="word-wrap: break-word; white-space: pre-wrap;"&gt;{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>"bowlGames" : [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"Rose Bowl",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"Peach Bowl",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"Sugar Bowl",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"Cotton Bowl",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"Orange Bowl",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"Fiesta Bowl",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"Gator Bowl",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"Citrus Bowl",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"Belk Bowl",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"Alamo Bowl"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>"conferences" : [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confTeams" : [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "ALA",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Alabama",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "95",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Alabama",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "AUB"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "UGA",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Georgia",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "85",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Georgia",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "UF"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "UF",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Florida",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "85",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Florida",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "UGA"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "TENN",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Tennessee",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "75",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Tennessee",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "MIZZ"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "AUB",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Alabama",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "85",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Auburn",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "ALA"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "LSU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Louisiana",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "85",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Louisiana State",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "TAMU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "MSST",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Mississippi",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "65",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Mississippi State",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "MISS"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "MISS",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Mississippi",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "70",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Ole Miss",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "MSST"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "TAMU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Texas",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "80",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Texas A&amp;amp;M",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "LSU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "MIZZ",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Missouri",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "65",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Missouri",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "TENN"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confFullName" : "Southeastern",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confName" : "SEC"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confTeams" : [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "OSU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Ohio",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "90",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Ohio State",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "MICH"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "MICH",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Michigan",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "85",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Michigan",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "OSU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "PUR",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Indiana",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "35",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Purdue",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "IU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "WIS",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Wisconsin",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "80",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Wisconsin",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "MINN"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "MINN",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Minnesota",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "65",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Minnesota",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "WIS"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "ILL",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Illinois",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "50",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Illinois",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "NWST"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "IU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Indiana",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "35",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Indiana",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "PUR"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "NEB",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Nebraska",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "70",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Nebraska",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "PSU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "PSU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Pennsylvania",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "85",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Penn State",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "NEB"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "NWST",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Illinois",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "55",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Northwestern",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "ILL"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confFullName" : "Big Ten",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confName" : "B1G"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confTeams" : [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "FSU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Florida",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "90",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Florida State",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "MIA"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "VT",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Virginia",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "80",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Virginia Tech",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "UVA"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "CLEM",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "South Carolina",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "90",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Clemson",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "ND"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "UVA",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Virginia",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "70",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Virginia",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "VT"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "DUKE",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "North Carolina",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "45",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Duke",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "UNC"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "MIA",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Florida",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "80",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Miami",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "FSU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "UNC",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "North Carolina",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "65",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "North Carolina",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "DUKE"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "PITT",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Pennsylvania",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "65",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Pittsburgh",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "WVU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "WVU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "West Virginia",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "75",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "West Virginia",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "PITT"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "ND",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Indiana",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "95",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Notre Dame",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "CLEM"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confFullName" : "Atlantic Coast",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confName" : "ACC"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confTeams" : [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "OKLA",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Oklahoma",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "90",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Oklahoma",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "OKST"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "TEX",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Texas",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "85",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Texas",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "TECH"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "TECH",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Texas",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "70",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Texas Tech",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "TEX"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "TCU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Texas",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : “99”,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "TCU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "BAY"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "BAY",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Texas",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "65",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Baylor",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "TCU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "OKST",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Oklahoma",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "80",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Oklahoma State",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "OKLA"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "KSU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Kansas",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "70",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Kansas State",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "KAN"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "CU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Colorado",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "80",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Colorado",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "CSU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "KAN",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Kansas",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "25",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Kansas",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "KSU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "CSU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Colorado",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "35",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Colorado State",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "CU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confFullName" : "Big 12",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confName" : "B12"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confTeams" : [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "CAL",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "California",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "65",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "California",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "STAN"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "ORE",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Oregon",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "80",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Oregon",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "ORST"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "UCLA",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "California",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "80",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "UCLA",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "USC"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "USC",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "California",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "90",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "USC",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "UCLA"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "WASH",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Washington",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "85",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Washington",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "WSU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "WSU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Washington",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "70",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Washington State",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "WASH"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "STAN",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "California",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "85",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Stanford",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "CAL"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "ORST",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Oregon",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "40",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Oregon State",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "ORE"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "ARIZ",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Arizona",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "70",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Arizona",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "ASU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "ASU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Arizona",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "70",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Arizona State",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "ARIZ"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confFullName" : "Pac 12",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confName" : "PAC12"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confTeams" : [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "USF",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Florida",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "70",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "South Florida",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "UCF"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "UCF",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Florida",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "70",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Central Florida",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "USF"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "LBSU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "California",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "1",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Long Beach State",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "FRES"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "FRES",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "California",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "70",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Fresno State",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "LBSU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "FIU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Florida",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "40",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "FIU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "FAU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "FAU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Florida",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "35",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Florida Atlantic",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "FIU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "AF",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Colorado",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "65",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Air Force",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "BSU"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "BSU",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Idaho",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "75",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Boise State",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "AF"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "NAVY",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "Maryland",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "60",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Navy",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "ARMY"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"abbreviation" : "ARMY",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"state" : "New York",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"prestige" : "60",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"name" : "Army",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>"rival" : "NAVY"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confFullName" : "American Athletic",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>"confName" : "AAC"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>]</span></p>
+<p class="p1"><span class="s1">}&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</span></p>
+</body>
+</html>
+Ytext/htmlUutf-8_file:///index.htmlP    ( : P n } ��j�t�zԏ                           Ԑ
